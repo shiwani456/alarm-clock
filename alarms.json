@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "time": "07:00",
+        "label": "Morning Workout",
+        "repeat": true,
+        "enabled": true
+    },
+    {
+        "id": 2,
+        "time": "21:00",
+        "label": "Medicine",
+        "repeat": false,
+        "enabled": true
+    },
+    {
+        "id": 3,
+        "time": "14:30",
+        "label": "meeting",
+        "repeat": true,
+        "enabled": true
+    }
+]
